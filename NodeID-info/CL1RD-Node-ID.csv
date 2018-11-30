@@ -1,0 +1,5 @@
+endpointUrl,userName,password,DP-PATH,NodeId
+opc.tcp://172.16.174.95:4840,admin,loytec4u,/OPC Client/10-142-237-11-80/Modbus Port TCP/Datapoints/PA33/EMP/KW,ns=1;i=161792
+opc.tcp://172.16.174.95:4840,admin,loytec4u,/OPC Client/10-142-237-11-80/Modbus Port TCP/Datapoints/PA33/EMP/KWH,ns=1;i=161744
+opc.tcp://172.16.174.95:4840,admin,loytec4u,/OPC Client/10-142-237-11-80/Modbus Port TCP/Datapoints/PA33/ACMP/KW,ns=1;i=161936
+opc.tcp://172.16.174.95:4840,admin,loytec4u,/OPC Client/10-142-237-11-80/Modbus Port TCP/Datapoints/PA33/ACMP/KWH,ns=1;i=161984

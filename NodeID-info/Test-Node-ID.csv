@@ -1,0 +1,2 @@
+endpointUrl,userName,password,DP-PATH,NodeId
+opc.tcp://SGMSAZDEVUWEB01.delta.corp:4334/UA/MyLittleServer,,,,ns=1;b=1020FFAA
